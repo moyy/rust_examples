@@ -6,13 +6,13 @@
 
 ## 1、例子
 
-|例子|说明|
+|作用|模块|
 |--|--|
-|[加法](src/add.rs)||
-|[类似 Result 的 ?](src/ok_or_return.rs)||
-|[将 struct 和 成员 设置为 pub](src/pub_struct.rs)||
-|[vec!简单版](src/vec.rs)||
-|[json语法糖](src/json.rs)||
+|加法|[src/add.rs](src/add.rs)|
+|类似 Result 的 ?|[src/ok_or_return.rs](src/ok_or_return.rs)|
+|将struct和成员设为pub|[src/pub_struct.rs](src/pub_struct.rs)|
+|vec!简单版|[src/vec.rs](src/vec.rs)|
+|json语法糖|[src/json.rs](src/json.rs)|
 
 ## 2、背景
 
