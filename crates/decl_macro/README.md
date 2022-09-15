@@ -8,13 +8,13 @@
 
 ## 1、例子
 
-|作用|模块|
-|--|--|
-|加法|[src/add.rs](src/add.rs)|
-|类似 Result 的 ?|[src/ok_or_return.rs](src/ok_or_return.rs)|
-|将struct和成员设为pub|[src/pub_struct.rs](src/pub_struct.rs)|
-|vec!简单版|[src/vec.rs](src/vec.rs)|
-|json语法糖|[src/json.rs](src/json.rs)|
+|作用|实现|使用|
+|--|--|--|
+|加法|[src/add.rs](src/add.rs)|[tests/add.rs](tests/add.rs)|
+|类似 Result 的 ?|[src/ok_or_return.rs](src/ok_or_return.rs)|[tests/ok_or_return.rs](tests/ok_or_return.rs)|
+|将struct和成员设为pub|[src/pub_struct.rs](src/pub_struct.rs)|[tests/pub_struct.rs](tests/pub_struct.rs)|
+|vec!简单版|[src/vec.rs](src/vec.rs)|[tests/vec.rs](tests/vec.rs)|
+|json语法糖|[src/json.rs](src/json.rs)|[tests/json.rs](tests/json.rs)|
 
 ## 2、背景
 
